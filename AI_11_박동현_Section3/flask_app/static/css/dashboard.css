@@ -1,0 +1,10 @@
+.main {
+    position:relative;
+    margin: 0 auto;
+    width: 1000px;
+    font-size: larger;
+}
+
+.body{
+    width: 100%;
+}
